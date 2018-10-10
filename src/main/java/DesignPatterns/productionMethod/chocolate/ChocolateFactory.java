@@ -1,4 +1,4 @@
-package DesignPatterns.productionMethod.chocolate;
+package Playground.designPatterns.productionMethod.chocolate;
 
 public interface ChocolateFactory {
 

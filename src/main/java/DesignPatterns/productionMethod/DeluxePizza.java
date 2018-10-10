@@ -1,4 +1,4 @@
-package DesignPatterns.productionMethod;
+package Playground.designPatterns.productionMethod;
 
 public class DeluxePizza extends Pizza {
 

@@ -1,4 +1,4 @@
-package DesignPatterns.productionMethod;
+package Playground.designPatterns.productionMethod;
 
 public class PizzaHut {
     public static void main(String[] args) {
