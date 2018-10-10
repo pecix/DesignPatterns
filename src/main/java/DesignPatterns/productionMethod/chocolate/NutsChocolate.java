@@ -1,4 +1,4 @@
-package Playground.designPatterns.productionMethod.chocolate;
+package DesignPatterns.productionMethod.chocolate;
 
 public class NutsChocolate extends Chocolate {
 

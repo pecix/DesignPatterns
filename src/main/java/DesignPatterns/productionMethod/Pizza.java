@@ -1,4 +1,4 @@
-package Playground.designPatterns.productionMethod;
+package DesignPatterns.productionMethod;
 
 public abstract class Pizza {
 
