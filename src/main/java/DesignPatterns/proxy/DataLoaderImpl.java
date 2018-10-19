@@ -1,4 +1,4 @@
-package DesignPatterns.Proxy;
+package DesignPatterns.proxy;
 
 import java.util.List;
 

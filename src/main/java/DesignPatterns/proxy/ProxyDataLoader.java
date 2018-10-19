@@ -1,4 +1,4 @@
-package DesignPatterns.Proxy;
+package DesignPatterns.proxy;
 
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;
